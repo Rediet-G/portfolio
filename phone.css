@@ -1,4 +1,4 @@
-/* Home */
+ /* Home */
 #home{
     height: 820px;
 }
@@ -9,8 +9,9 @@
 /*About*/
 
 #pic img{
-    width: 300px;
+    width: 700px;
     height: 175px;
+    margin-top: 10px;
 }
 
 #intro h2{
@@ -34,4 +35,16 @@
 }
 #send{
     width: 20%;
+}
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.responisve-iframe{
+     width: 275px;
+     height: 250px;
+     margin-left: 0px;
+     margin-right: 0px;
+     align-content: flex-start;
 }
